@@ -1,0 +1,43 @@
+doctype html
+html
+	head
+		title TechPrep Login
+	body
+		form(action='/login', method='POST')
+			p(style='white-space:pre;')
+				|	Hello, please login or sign up below
+				|
+				| Login email
+				|
+				input(type='text' name='loguser' required='true')
+				|
+				| Password
+				|
+				input(type='password' name='logpassword' required='true')
+			input(type='submit' value='Submit')
+		
+		form(action='/register', method='POST')
+			p(style='white-space:pre;')
+				| Are you a new user? Register below!
+				| Note: registration is only open to admins & question creators
+				|
+				| Email
+				|
+				input(type='text' name='email' required='true')
+				|
+				| Username
+				|
+				input(type='text' name='username' required='true')
+				|
+				| Password
+				|
+				input(type='password' name='password' required='true')
+				|
+				| Confirm Password
+				|
+				input(type='password' name='passwordConf' required='true')
+				|
+				| Verification Code(Contact Team Null for Code)
+				|
+				input(type='text' name='verificationCode' required='true')
+			input(type='submit' value='Submit')

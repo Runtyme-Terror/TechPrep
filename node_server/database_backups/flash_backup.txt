@@ -1,0 +1,445 @@
+/* 1 */
+{
+    "_id" : ObjectId("5abc00873da127f248ae3fb8"),
+    "question" : "Which came first, C or C++?",
+    "answer" : "C",
+    "author" : "reifx049"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5abc01573da127f248ae400c"),
+    "question" : "Java and Python are ______-oriented languages",
+    "answer" : "object-oriented languaged",
+    "author" : "reifx049"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5ac62f203da127f248b05cf5"),
+    "question" : "What number does an array's index start at?",
+    "answer" : "0",
+    "author" : "reifx049"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ac6301a3da127f248b05d42"),
+    "question" : "Translate the following binary: 01 10 11",
+    "answer" : "1 2 3",
+    "author" : "reifx049"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5ad6126e2f7704cf3c0f78fc"),
+    "question" : "How does a deadlock occur in threads?",
+    "answer" : "Deadlocks occur if no thread can proceed due to them both waiting for eachother.",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5ad612df2f7704cf3c0f78fd"),
+    "question" : "What are the three stages of stream processing?\r\n",
+    "answer" : "generation, transformation, termination",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5ad613012f7704cf3c0f78fe"),
+    "question" : "What is the the purpose of a hash table?",
+    "answer" : "Hash tables are an efficient structure for implementing dictionary operations. A good hash\r\nfunction will minimize collisions (data hashing to the same index) as much as possible.",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5ad7ad5547d3edd04ed4b03f"),
+    "question" : "What is the average complexity of bubble sort?",
+    "answer" : "O(n^2)",
+    "author" : "5ad7acf647d3edd04ed4b03c",
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5ad7adc147d3edd04ed4b044"),
+    "question" : "What does SQL stand for?",
+    "answer" : "Structured Query Language",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5ad7afe247d3edd04ed4b045"),
+    "question" : "What is the average performance of Quicksort.",
+    "answer" : "O(nlogn)",
+    "author" : "5ad7acf647d3edd04ed4b03c",
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5ad7b3ae47d3edd04ed4b046"),
+    "question" : "Define encapsulation",
+    "answer" : "Separating how a class's data is represented from how the class is used",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5ad7b3c447d3edd04ed4b047"),
+    "question" : "Define abstraction",
+    "answer" : "Hiding the details of how a class is implemented from users of the class",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5ad7b3ea47d3edd04ed4b048"),
+    "question" : "Define polymorphism",
+    "answer" : "Using interface-typed variables so that code can have different behavior depending on the types of objects they reference at run-time",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5ad7b42147d3edd04ed4b049"),
+    "question" : "What mechanism does Java use for passing both primitive and object reference parameter types?",
+    "answer" : "Call by value (parameter copying)",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5ad7b44347d3edd04ed4b04a"),
+    "question" : "Why must arithmetic methods like square root be referred to in Java like Math.sqrt instead of just sqrt?",
+    "answer" : "Because they are static methods and thus are called without an implicit parameter.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5ad7b46347d3edd04ed4b04b"),
+    "question" : "What is the difference between checked and unchecked exceptions in Java?",
+    "answer" : "Checked exception conditions are detected at compile time and the programmer is forced to handle or throw them. Unchecked exception conditions are not detected.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5ad7b49c47d3edd04ed4b04c"),
+    "question" : "Describe the class relationship known as Aggregation.",
+    "answer" : "When a class object \"has\" an object of another class type as part of its state: the class has an instance field that is another class type or a collection of another class type",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5ad7b4cf47d3edd04ed4b04d"),
+    "question" : "Describe the class relationship known as Inheritance.",
+    "answer" : "When an object that is an instance of one class \"is\" also an instance of another: the class is a subclass of, or extends, the other",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5ad7b4ec47d3edd04ed4b04e"),
+    "question" : "Describe the Implementation relationship that holds between a class and an interface",
+    "answer" : "When a class provides definitions (implementations) for the methods whose signatures are specified in the interface.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5ad7b54c47d3edd04ed4b04f"),
+    "question" : "Name and describe five criteria used to analyze the quality of an interface to a class.",
+    "answer" : "Cohesion: all operations provided by the interface revolve around a common purpose\r\nCompleteness: all operations that make sense for the class are supported by the interface\r\nConvenience: the interface makes common tasks simple\r\nClarity: the interface does not confuse programmers\r\nConsistency: the operations for an interface have matching names, parameters, return values, and behavior",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5ad7b59647d3edd04ed4b050"),
+    "question" : "The equals method is defined in java.lang.Object, so it is inherited by all classes. Why is it a good idea to override it?",
+    "answer" : "The inherited equals only checks for object identity (this == other), while object equality usually asks whether two separate objects have the same state",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5ad7b5be47d3edd04ed4b051"),
+    "question" : "What should every overridden equals method do before it compares two objects' state?",
+    "answer" : "Check to make sure the class of the other object is the same as the class of this object, using getClass, then cast the other object to this object's class",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5ad7b5db47d3edd04ed4b052"),
+    "question" : "The toString method is defined in java.lang.Object, so it is inherited by all classes. Why is it a good idea to override it?",
+    "answer" : "The inherited toString only returns the string representation of the object's class and memory location. Since toString is often used for debugging, this behavior is of limited value.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5ad7b65047d3edd04ed4b053"),
+    "question" : "Describe Java's reflection capability.",
+    "answer" : "Reflection is the ability of a running program to find out about its objects and classes, including details about constructors, methods, and fields.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5ad7b6b247d3edd04ed4b054"),
+    "question" : "What is a functional interface?",
+    "answer" : "An interface with exactly one abstract (that is, non-default and non-static) method",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5ad7b6c547d3edd04ed4b055"),
+    "question" : "Generally, what is a lambda expression in Java 8?",
+    "answer" : "A parameterized piece of code that can be passed around and executed",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5ad7b6de47d3edd04ed4b056"),
+    "question" : "Is a lambda expression an object?",
+    "answer" : "No, it is best understood as an anonymous function",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5ad7b6f747d3edd04ed4b057"),
+    "question" : "Where can a lambda expression be used in a program?",
+    "answer" : "Any place where an instance of a class implementing a functional interface is expected",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5ad7b72347d3edd04ed4b058"),
+    "question" : "To create a GUI using JavaFX, which class must be extended?",
+    "answer" : "The Application class, in the package javafx.application",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5ad8b0b847d3edd04ed4b062"),
+    "question" : "Object-oriented programming is based on the concept of objects. Name some characteristics of an object",
+    "answer" : "Objects contain data called attributes, and use methods to access and modify memory of the object",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5ad8b13247d3edd04ed4b063"),
+    "question" : "Python, Ruby, Scala, and JADE are what kind of objected-oriented language?",
+    "answer" : "Pure; these languages treat everything as an object",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5ad8b1c547d3edd04ed4b064"),
+    "question" : "What is github?",
+    "answer" : "Github is a collaborative program that allows a group to build software and track each and every change in their code.",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5ad8b28847d3edd04ed4b065"),
+    "question" : "What is the size(in bits) of an integer variable?",
+    "answer" : "32 bits",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5ad8b29d47d3edd04ed4b066"),
+    "question" : "What is the size(in bits) of an double variable?",
+    "answer" : "64 bits",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5ad8b2b447d3edd04ed4b067"),
+    "question" : "What is the size(in bits) of an float variable?",
+    "answer" : "32",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5ad8b2e147d3edd04ed4b068"),
+    "question" : "What is the size(in bits) of an char variable?",
+    "answer" : "16 bits",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5ada853b47d3edd04ed4b069"),
+    "question" : "How does a binary search algorithm work?",
+    "answer" : "The list is halved until the item is found.",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5ada856f47d3edd04ed4b06a"),
+    "question" : "What is encryption?",
+    "answer" : "Process of changing data so that it cannot be read without a decryption key.",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5ada85b547d3edd04ed4b06b"),
+    "question" : "What is the exact definition of an integer, and what numbers can and cannot be integers?",
+    "answer" : "An integer can only be a number that is positive or negative, with no decimal points. Examples: 1, -5, 123.",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5ada865547d3edd04ed4b06c"),
+    "question" : "What data structure  accesses data LIFO (Last in first out)? ",
+    "answer" : "Stack",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5ada869347d3edd04ed4b06d"),
+    "question" : "What is a reference?",
+    "answer" : "A pointer to the memory location, or address of an object",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5ada86bc47d3edd04ed4b06e"),
+    "question" : "What data structure accesses data FIFO (First in first out)",
+    "answer" : "Queue",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5ada86ca47d3edd04ed4b06f"),
+    "question" : "What data structure randomly accesses data?",
+    "answer" : "Bag",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5ada88fa47d3edd04ed4b070"),
+    "question" : "What does hertz measure?",
+    "answer" : "Speed of a computer's internal clock, or the measure of CPU speed in cycles per second.",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5ada892e47d3edd04ed4b071"),
+    "question" : "What does a compiler do?",
+    "answer" : "Converts high level languages, like java, into low level machine language (1's and 0's).",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5ada8a3a47d3edd04ed4b072"),
+    "question" : "What is the notation used to determine the efficiencies of algorithms and data structures?",
+    "answer" : "Big O notation",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5adcc1e047d3edd04ed4b073"),
+    "question" : "Define a primary key is database management systems.",
+    "answer" : "special relational database table column  designated to uniquely identify all table records",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5adcc21447d3edd04ed4b074"),
+    "question" : "What is the topmost node of a binary tree called?",
+    "answer" : "Root",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5adcc2b747d3edd04ed4b075"),
+    "question" : "What are elements in binary trees that have no children?",
+    "answer" : "Leaves",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5adcc57d47d3edd04ed4b076"),
+    "question" : "What does the WHERE clause do in an SQL statement?",
+    "answer" : "Filters the records & used to only extract records that fulfill a condition",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}

@@ -1,0 +1,396 @@
+/* 1 */
+{
+    "_id" : ObjectId("5ab7b11dd6fdc73127e97d19"),
+    "question" : "Explain how the find the most frequent integer in an array",
+    "author" : "5ad3dcbc4459fc8d4cad1814"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5ab7b132d6fdc73127e97d27"),
+    "question" : "Explain how you would check if a String is composed of all unique characters",
+    "author" : "5ad3dcbc4459fc8d4cad1814"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5aba5cd43da127f248adea5d"),
+    "question" : "Sort a linked list by location in memory.",
+    "author" : "5ad3dcbc4459fc8d4cad1814"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ad77def2f7704cf3c0f78ff"),
+    "question" : "Reverse an array without affecting a special characters (special characters stay in the same location in the array).\r\nFor Example: \r\nInput:     aH@k*U\r\nOutput:  Uk@H*a\r\n ",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5ad77f292f7704cf3c0f7900"),
+    "question" : "Given a random list of integers create an algorithm that finds and prints all the integers that are perfect square numbers.\r\nFor example:\r\nInput: 4,5,6,20,25\r\nOutput: 4, 25",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5ad7a4472f7704cf3c0f7901"),
+    "question" : "Explain how you would take the union between two different arrays that hold integers. ",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5ad7a4692f7704cf3c0f7902"),
+    "question" : "Explain how you would take the intersection of two arrays that contain integers.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5ad7a5882f7704cf3c0f7903"),
+    "question" : "Explain how a bubble sort works.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5ad7a5c82f7704cf3c0f7904"),
+    "question" : "Explain how an Insertion Sort works.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5ad7a61a2f7704cf3c0f7905"),
+    "question" : "Explain how Selection Sort works.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5ad7aa5c47d3edd04ed4b02e"),
+    "question" : "Explain how to find an element x in an array using the Linear Search approach.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5ad7aa8447d3edd04ed4b02f"),
+    "question" : "Explain how Binary Search works.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5ad7aba547d3edd04ed4b031"),
+    "question" : "Given a time, calculate the angle between the hour and minute hand",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5ad7ac1c47d3edd04ed4b032"),
+    "question" : "Implement an algorithm to determine if a string has all unique characters. What\r\nif you cannot use additional data structures?",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5ad7ac3547d3edd04ed4b033"),
+    "question" : "Implement a function void reverse(char* str) in C or C++ which reverses a null-\r\nterminated string.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5ad7ac4447d3edd04ed4b034"),
+    "question" : "Given two strings, write a method to decide if one is a permutation of the other.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5ad7ac6247d3edd04ed4b035"),
+    "question" : "Given an image represented by an NxN matrix, where each pixel in the image is\r\n4 bytes, write a method to rotate the image by 90 degrees. Can you do this in\r\nplace?",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5ad7ac6d47d3edd04ed4b036"),
+    "question" : "Write an algorithm such that if an element in an MxN matrix is 0, its entire row\r\nand column are set to 0.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5ad7ac8b47d3edd04ed4b037"),
+    "question" : "Write code to partition a linked list around a value x, such that all nodes less than\r\nx come before all nodes greater than or equal to x.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5ad7aca547d3edd04ed4b038"),
+    "question" : "Implement a function to check if a linked list is a palindrome",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5ad7acb647d3edd04ed4b039"),
+    "question" : "Describe how you could use a single array to implement three stacks",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5ad7acca47d3edd04ed4b03a"),
+    "question" : "How would you design a stack which, in addition to push and pop, also has a\r\nfunction min which returns the minimum element? Push, pop and min should\r\nall operate in O(1) time",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5ad7acdd47d3edd04ed4b03b"),
+    "question" : "Implement a MyQueue class which implements a queue using two stacks",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5ad7ad1a47d3edd04ed4b03d"),
+    "question" : "Implement a function to check if a binary tree is a binary search tree.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5ad7ad2d47d3edd04ed4b03e"),
+    "question" : "Given a directed graph, design an algorithm to find out whether there is a route\r\nbetween two nodes.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5ad7ad5a47d3edd04ed4b040"),
+    "question" : "Given two lines on a Cartesian plane, determine whether the two lines would\r\nintersect",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5ad7ad8d47d3edd04ed4b041"),
+    "question" : "Given a two-dimensional graph with points on it, find a line which passes the\r\nmost number of points",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5ad7ada147d3edd04ed4b042"),
+    "question" : "Write a method to return all subsets of a set.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5ad7adab47d3edd04ed4b043"),
+    "question" : "Write a method to compute all permutations of a string.",
+    "author" : "5ad7aac947d3edd04ed4b030",
+    "__v" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5ad7b72547d3edd04ed4b059"),
+    "question" : "How would you find the only element that occurs once in an array?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5ad7b74747d3edd04ed4b05a"),
+    "question" : "How would you find the find common elements between two arrays?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5ad7b79f47d3edd04ed4b05b"),
+    "question" : "Find the smallest element in a BST",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5ad7b7bb47d3edd04ed4b05c"),
+    "question" : "Find the 2nd largest number in a BST",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5ad7b7e747d3edd04ed4b05d"),
+    "question" : "Compare and contrast stacks and queues",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5ad7b7f447d3edd04ed4b05e"),
+    "question" : "Compare and contrast stacks and heaps",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5ad7b84f47d3edd04ed4b05f"),
+    "question" : "Find the nth element in a linked list",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5ad8afbd47d3edd04ed4b060"),
+    "question" : "How would you implement a binary search of a sorted array of integers?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5ad8afce47d3edd04ed4b061"),
+    "question" : "How would you implement a square root function?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5adcc72247d3edd04ed4b077"),
+    "question" : "Explain how you would implement a queue.",
+    "author" : "5ad610ee2f7704cf3c0f78fa",
+    "__v" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5adcf87647d3edd04ed4b079"),
+    "question" : "How would you reverse a string iteratively and recursively?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5adcf89747d3edd04ed4b07a"),
+    "question" : "How would you determine if a String is an int or a double?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5adcf8d147d3edd04ed4b07b"),
+    "question" : "How would you check if a linked list has cycles?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5adcf8e947d3edd04ed4b07c"),
+    "question" : "How would you reverse a linked list iteratively and recursively?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5adcf92047d3edd04ed4b07d"),
+    "question" : "How would you turn a binary min heap into a binary max heap?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5adcfc4847d3edd04ed4b07e"),
+    "question" : "How would you find pairs in an integer array whose sum is equal to 10?",
+    "author" : "5ad55f842f7704cf3c0f78f7",
+    "__v" : 0
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5add69ff47d3edd04ed4b07f"),
+    "question" : "Explain an approach to traversing a sorted binary tree in search of a particular value",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5add6a1847d3edd04ed4b080"),
+    "question" : "Explain how to find a value in a  doubly-linked list and move it to the front of the list",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5add6b2547d3edd04ed4b081"),
+    "question" : "Explain how to reverse a linked list iteratively and recursively",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5add6b3647d3edd04ed4b082"),
+    "question" : "Explain how to check whether a linked list is a palindrome",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5add6b5f47d3edd04ed4b083"),
+    "question" : "Explain how to find the distance between 2 nodes in a binary search tree and a normal binary tree",
+    "author" : "5ad6108e2f7704cf3c0f78f9",
+    "__v" : 0
+}

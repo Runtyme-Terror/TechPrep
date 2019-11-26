@@ -1,0 +1,24 @@
+doctype html
+html
+	head
+		title Profile
+	body
+		p
+			| Profile
+			br
+			| Username: #{user}
+			br
+			| Email: #{email}
+			br
+			| Access Level: #{access}
+			br
+
+p
+	| Select an option below to expand the question database
+	br
+	a(class='button' href='/makeTechnical') Add Technical-Video Interview Question
+	br
+	a(class='button' href='/makeFlash') Add Flashcard Question
+	br
+	br
+	a(class='button' href='/logout') Logout

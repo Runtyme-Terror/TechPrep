@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tech Prep</string>
+    <string name="Record_Video">Record Video</string>
+    <string name="Home">Home</string>
+    <string name="Flashcards">Flashcards</string>
+    <string name="Get_Question">Get Question</string>
+    <string name="new_Question">Get New Question</string>
+    <string name="Get_Answer">Show Answer</string>
+    <string name="hide_Answer">Hide Answer</string>
+    <string name="hidden_Answer">Answer Hidden</string>
+    <string name="Resources">Resources</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="serverURL">http://ukko.d.umn.edu:48821</string>
+    <string name="back_button">Back</string>
+    <string name="submit_button">Submit</string>
+    <string name="userSubmissionButton">User Submissions</string>
+    <string name="my_app_id">techprep-oxytj</string>
+    <string name="giveFeedback">Give Feedback</string>
+    <string name="submitFeedback">Submit Feedback</string>
+    <string name="editFeedback">Add Feedback Here</string>
+    <string name="switchToFeedback">Feedback</string>
+    <string name="testAddData">Add Data Test</string>
+</resources>

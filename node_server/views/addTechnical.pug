@@ -1,0 +1,21 @@
+doctype html
+link(rel='stylesheet', href='/stylesheets/demo.css', type='text/css')
+html
+	head
+		
+		title Technical questions
+	body
+		p
+			| Add a technical computer science question to the database
+			br
+			| Remember to keep the question open ended
+		form(action='/createTechnical', method='POST')
+			p
+				| Question
+				br
+				textarea(name='question', class='inputbox', required)
+				br
+			input(type='submit' value='Submit')
+
+p
+	a(class='button' href='/logout') Logout

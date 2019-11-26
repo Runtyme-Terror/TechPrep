@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NavigationDrawerStyle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:listPreferredItemHeightSmall">60dp</item>
+        <item name="android:fontFamily">@font/textbook</item>
+        <item name="android:layout_marginTop">2dp</item>
+    </style>
+</resources>

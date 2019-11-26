@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home">
+    </item>
+
+    <item android:id="@+id/nav_recordVideo"
+        android:title="Record Video">
+    </item>
+
+    <item android:id="@+id/nav_flashcards"
+        android:title="Flashcards">
+    </item>
+
+    <item android:id="@+id/nav_resources"
+        android:title="Resources">
+    </item>
+
+    <item android:id="@+id/nav_myAccount"
+        android:title="My Account">
+    </item>
+
+
+</menu>
